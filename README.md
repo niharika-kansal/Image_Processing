@@ -3,8 +3,11 @@ This repository contains an introductory notebook on Image Processing using Pyth
 📌 Features
 
 Load and display images (color & grayscale)
+
 Explore image properties (height, width, channels, size, data type)
+
 Normalize pixel values to [0,1]
+
 Convert grayscale → black & white (thresholding)
 Convert grayscale → colored (using Matplotlib colormaps)
 Work with built-in sample images from scikit-image
